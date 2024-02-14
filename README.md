@@ -1,11 +1,11 @@
 # GameDevWishlist
 
 ## What Makes a Good Game?
-If you look at computer games from the very first examples till today it's clear that a lot of progress has been made in the realm of computer games. Graphics have obviously gotten better, games have gotten bigger, the role of games in our society has shifted completely... there's very little that's stayed the same. Certain aspects it's easy to say that progress has been fairly linear, or, at least, fairly forward. But that's not universally true. It's especially not true of the game systems that make games fun to play.
+Take a ten thousand food view on video games for a minute. There are a lot of bits that show pretty good forward progress: Graphics, music, story... all pretty much better the further along in time you go. That's not really true for gameplay, though. There are plenty of examples of established game franchises that peaked, in one way or another, and then decided to go a different (worse) direction.
 
-Take as an example Castlevania: Symphony of the Night. This game came out in 1997 and since then there have been 17 more Castlevania games (more than came before) and none have come close to having the acclaim (or, IMHO, being as fun) as SotN. And it's not for lack of trying: Many of the sequals tried to capitalize on SotN's model, and some came close, but none really had the same appeal.
+Take as an example Castlevania: Symphony of the Night. This game came out in 1997 and since it was release there have been 17 more Castlevania games (more games than came before SotN) and none have come close to having the acclaim (or, IMHO, being as fun) as SotN. And it's not for lack of trying: Many of the sequals tried to capitalize on SotN's model, and some came closer than others, but none really had the same appeal.
 
-What about SotN made it better than it's kin? Why are so many games chasing it's success? Why are so many failing to obtain it? What made it a good game?
+So what about SotN made it better than it's kin? Why are so many games chasing it's success? Why are so many "spiritual sequals" failing to obtain it? What made it a good game?
 
 ## The Project
 The whole point of this project is to try and identify games that did things well, and identify what they did well and why. Where possible we also want to identify where improvements could be made, and what those improvements might look like. The method will be to look at games first in terms of type (grouped by category of play, type of graphics, etc...) and get people's opinions on what made them good or bad. From there, the goal will be to distill those opinions into a learning about what makes some aspect of that type of game "good", and create lists of criteria that we think will result in a good game.
